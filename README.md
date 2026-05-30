@@ -8,7 +8,7 @@ Different from text-only automated building energy modeling (ABEM) workflows, th
 
 The framework combines vision-language models (VLMs), large language models (LLMs), prompt-based reasoning, with the proposed self-, cross-consistency, and reflection verification mechanisms to support robust building information (especially vision information) extraction. 
 
-![High-level illustration of SCAle-BEM framework](/figs/graphic.jpg)
+![High-level illustration of SCAle-BEM framework](/figs/graphic.png)
 
 ## 🖇 Key Contributions
 
@@ -66,6 +66,8 @@ Supported water-side system descriptions include:
 - Hot water systems
 - Condenser water systems
 
+![Supported ABEM Scenarios](/figs/scenarios.png)
+
 ## 📍 Framework Overview
 
 The workflow includes four major stages:
@@ -93,7 +95,7 @@ The workflow includes four major stages:
    - Generates the building model components.
    - Supports robust and scalable scenario generation for ABEM.
 
-![Overall pipeline of the proposed consistent LLM multi-agent system](/figs/agent_pipeline.jpg)
+![Overall pipeline of the proposed consistent LLM multi-agent system](/figs/agent_pipeline.png)
 
 ## 📂 Repository Structure
 
