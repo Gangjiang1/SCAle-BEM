@@ -122,8 +122,8 @@ The workflow includes four major stages:
 ├── utility_pdf2image.ipynb              # Convert PDF files into high-resolution images for VLMs
 ├── main_vision_interpreter.ipynb        # Main code for vision interpreter
 ├── main_intent_abstractor.ipynb         # Main code for intent abstractor
-├── utility_system_prompts.py            # System prompts for LLM/VLM agents
-├── utility_descriptions.py              # Template functions for building description generation
+├── utility_system_prompts.py            # Prompts for LLM/VLM agents
+├── utility_descriptions.py              # Functions for building description generation
 │
 ├── Standard_Test/                       # General standard benchmark dataset
 ├── Real_Drawing/                        # Real-world building drawing benchmark dataset
