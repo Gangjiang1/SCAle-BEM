@@ -119,7 +119,7 @@ The workflow includes four major stages:
 
 ```text
 ├── README.md
-├── utility_pdf2image.ipynb              # Convert PDF files into high-resolution images for VLMs
+├── utility_pdf2image.ipynb              # Convert PDF to high-resolution images for VLMs
 ├── main_vision_interpreter.ipynb        # Main code for vision interpreter
 ├── main_intent_abstractor.ipynb         # Main code for intent abstractor
 ├── utility_system_prompts.py            # Prompts for LLM/VLM agents
