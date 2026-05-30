@@ -108,7 +108,7 @@ The workflow includes four major stages:
    - Supports robust and scalable scenario generation for ABEM.
 
 <p align="center">
-  <img src="/figs/agent_pipeline.png" alt="Overall pipeline of the proposed consistent LLM multi-agent system" width="800">
+  <img src="/figs/agent_pipeline.png" alt="Overall pipeline of the proposed consistent LLM multi-agent system" width="600">
 </p>
 
 <p align="center">
