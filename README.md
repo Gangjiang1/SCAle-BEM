@@ -176,7 +176,7 @@ utility_pdf2image.ipynb
 
 This code converts PDF files into high-resolution PNG images.
 
-### 📏 Selecting Self- and Cross-Consistency Strageties
+### 📏 Selecting Self- and Cross-Consistency Strategies
 
 | Mode | Description |
 |---|---|
@@ -213,11 +213,11 @@ user_prompts_3_cross_consistency.py
 - Model outputs may vary depending on the selected LLMs and VLMs, image quality, prompt design, and inference mode. Users are encouraged to strictly follow the provided code examples to ensure reproducibility.
 - Cross-consistency mode is generally more robust but requires more API calls and may lead to higher costs. Please check your API usage and billing information regularly.
 
-### 📝 Citation
+## 📝 Citation
 
 - Paper coming soon.
 
-### 📄 License
+## 📄 License
 
 - Apache License 2.0
 
